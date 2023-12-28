@@ -1,4 +1,4 @@
-After watching the video, you can have these notes for revision -
+ Notes for revision -
 Database -> Tables -> Records
 Database -> Collections -> Documents
 
